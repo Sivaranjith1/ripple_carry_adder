@@ -1,4 +1,14 @@
-C:/Users/Ranjith/Documents/vhdl/ripple_carry/full_adder_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/Ranjith/Documents/vhdl/ripple_carry/full_adder_tb.vhd
+C:/Users/Ranjith/Documents/vhdl/ripple_carry/ripple_carry_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Ranjith/Documents/vhdl/ripple_carry/ripple_carry_adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ripple_carry_adder
+-- Compiling architecture rtl of ripple_carry_adder
+-- Loading entity full_adder
+
+} {} {}} C:/Users/Ranjith/Documents/vhdl/ripple_carry/full_adder_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/Ranjith/Documents/vhdl/ripple_carry/full_adder_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -39,14 +49,5 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 ** Warning: C:/Users/Ranjith/Documents/vhdl/ripple_carry/ripple_carry_adder_tb.vhd(89): (vcom-1207) An abstract literal and an identifier must have a separator between them.
 ** Warning: C:/Users/Ranjith/Documents/vhdl/ripple_carry/ripple_carry_adder_tb.vhd(94): (vcom-1207) An abstract literal and an identifier must have a separator between them.
 ** Warning: C:/Users/Ranjith/Documents/vhdl/ripple_carry/ripple_carry_adder_tb.vhd(99): (vcom-1207) An abstract literal and an identifier must have a separator between them.
-
-} {} {}} C:/Users/Ranjith/Documents/vhdl/ripple_carry/full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Ranjith/Documents/vhdl/ripple_carry/full_adder.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity full_adder
--- Compiling architecture rtl of full_adder
 
 } {} {}}

@@ -11,10 +11,10 @@ entity full_adder is
         o_sum: out std_logic;
         o_carry: out std_logic
     );
-end full_adder;
+end;
 
 architecture rtl of full_adder is
 begin
     o_sum <= i_inp1 xor i_inp2 xor i_carry;
     o_carry <= ((i_inp1 xor i_inp2) and i_carry) or (i_inp1 and i_inp2);
-end rtl;
+end;
