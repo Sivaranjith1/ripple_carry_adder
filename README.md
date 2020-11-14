@@ -1,7 +1,9 @@
 # Ripple carry adder with 2 FA
+
 This is a ripple carry adder created by adding to full adders together.
 
 ## ripple_carry_adder.vhd
+
 The ripple_carry_adder entity is placed here. It has an input carry and an output carry bit.
 
 ```vhdl
@@ -18,6 +20,7 @@ end ripple_carry_adder;
 ```
 
 ## full_adder.vhd
+
 This file contains an basic full adder.
 
 ```vhdl
